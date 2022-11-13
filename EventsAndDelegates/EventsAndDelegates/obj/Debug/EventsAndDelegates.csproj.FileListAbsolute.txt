@@ -1,0 +1,8 @@
+C:\APP\Work\Adv\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\APP\Work\Adv\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\APP\Work\Adv\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\APP\Work\Adv\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.AssemblyReference.cache
+C:\APP\Work\Adv\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.SuggestedBindingRedirects.cache
+C:\APP\Work\Adv\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\APP\Work\Adv\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\APP\Work\Adv\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
